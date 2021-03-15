@@ -1,0 +1,7 @@
+NO,path,img,title,artist
+1,models/la_muse.ckpt,style/la_muse.jpg,la_muse,unknown
+2,models/rain_princess.ckpt,style/rain_princess.jpg,rain_princess,unknown
+3,models/the_scream.ckpt,style/the_scream.jpg,the_scream,unknown
+4,models/shipwreck.ckpt,style/the_shipwreck_of_the_minotaur.jpg,the_shipwreck_of_the_minotaur,unknown
+5,models/udnie.ckpt,style/udnie.jpg,udnie,unknown
+6,models/wave.ckpt,style/wave.jpg,wave,unknown
